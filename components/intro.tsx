@@ -7,7 +7,7 @@ const Intro = () => {
         Onigiri Hardcore
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-         Summonando novidades desde 2013
+         Summonando notícias desde 2013
       </h4>
     </section>
   )
