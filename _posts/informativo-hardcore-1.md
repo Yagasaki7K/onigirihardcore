@@ -2,7 +2,7 @@
 title: 'Chrome lança beta polêmico/ Pfizer confirma ataque hacker / Foguete que irá para Marte explode'
 excerpt: 'Depois de quase três anos "desativados", nós decidimos voltar com o Onigiri Hardcore, dando uma aproveitada nas várias oportunidades que surgiu para nós, já que o nosso desenvolvedor aprendeu novas tecnologias e isso é maravilhoso, além de várias novidades que andam acontecendo pelo mundo.'
 coverImage: '/assets/blog/informativo/cover.jpg'
-date: '2020-12-17'
+date: '2021-01-04'
 author:
   name: Anderson "Yagasaki" Marlon
   picture: '/assets/blog/authors/anderson.jpeg'
