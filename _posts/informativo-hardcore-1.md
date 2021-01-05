@@ -1,6 +1,6 @@
 ---
 title: 'Chrome lança beta polêmico/ Pfizer confirma ataque hacker / Foguete que irá para Marte explode'
-excerpt: 'Depois de quase três anos "desativados", nós decidimos voltar com o Onigiri Hardcore, dando uma aproveitada nas várias oportunidades que surgiu para nós, já que o nosso desenvolvedor aprendeu novas tecnologias e isso é maravilhoso, além de várias novidades que andam acontecendo pelo mundo.'
+excerpt: 'Chrome 88 vai dificultar vida de ad blockers: a próxima versão do navegador, ainda em fase beta, trará melhorias de segurança para a plataforma de extensões, chamada de Manifest v3, impedindo que código seja hospedado remotamente, mas vai deixar mais difícil a criação de ad blockers.'
 coverImage: '/assets/blog/informativo/cover.jpg'
 date: '2021-01-04'
 author:
